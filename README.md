@@ -12,7 +12,7 @@ The latest development preview of Unity8 for desktop can be installed on Ubuntu 
 
 1. Run the install script
 ```
-bash <(wget -qO- https://raw.githubusercontent.com/ubports/unity8-desktop-install-tools/master/install.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/nathan990315/unity8-desktop-install-tools/master/install.sh)
 ```
 2. Reboot, select "unity8" at the login prompt, and enjoy :)
 
